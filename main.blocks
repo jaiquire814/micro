@@ -1,7 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="{;Ui+Ye^0~I!D,nJk5w6" x="0" y="0"></block><block type="device_forever" id="jUI3tgz.FG?rxfmmGU8t" x="205" y="0"></block><block type="device_show_leds" id="9q6RVNz*KE?2f]?NzV;_" disabled="true" x="217" y="129"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="{;Ui+Ye^0~I!D,nJk5w6" x="0" y="0"></block><block type="device_forever" id="jUI3tgz.FG?rxfmmGU8t" x="205" y="0"></block><block type="device_show_leds" id="9q6RVNz*KE?2f]?NzV;_" disabled="true" x="1" y="127"><field name="LEDS">`
         # # # # # 
         . . # . . 
         . . # . . 
-        . . # . # 
+        . . # . . 
         # # # . .
-        `</field></block><block type="device_plot" id="-D*%L{]x2#Q0J!fboypI" disabled="true" x="9" y="158"><value name="x"><shadow type="math_number_minmax" id=",CK-WJ_[Oh;~seXp|NvV" disabled="true"><mutation min="0" max="4" label="X" precision="1"></mutation><field name="SLIDER">2</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="_^!%]hu0B!,wXe:kt0`." disabled="true"><mutation min="0" max="4" label="Y" precision="1"></mutation><field name="SLIDER">3</field></shadow></value></block></xml>
+        `</field></block><block type="device_build_image" id="R][+p5oG,onZ{who9:tj" disabled="true" x="181" y="128"><field name="LEDS">`
+        # . . . . 
+        . # # # # 
+        . . # # # 
+        . # . . . 
+        # . . . .
+        `</field></block></xml>
